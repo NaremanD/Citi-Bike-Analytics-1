@@ -1,10 +1,11 @@
 <h1 align="center"> Citi Bike Analysis </h1>
-![cove](media/15306872775683/cover.jpg)
 <p align="center">
   <a href="#background">Background</a> •
   <a href="#analysis">Analysis</a> •
   <a href="#technology-stack-used">Technology Stack Used</a> •
 </p>
+
+![cove](media/15306872775683/cover.jpg)
 
 # Background
 **Experience NYC in a Whole New Way**
