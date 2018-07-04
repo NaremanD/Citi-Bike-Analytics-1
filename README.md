@@ -15,9 +15,10 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 In this project, the annual report for year 2017 would be generated for city officials to publicize and improve the city program.
 
---
 # Analysis
 The Tableau workbook is saved as `citi_bike_analysis.twbx` and the data used for this workbook was zipped into the `citi_bike_data_2017.csv.zip`.
+> Since both of files exceed 100MB, I decided to remove them from this repo. You can still find the results below.
+
 ![Citi_Bike_2017_Analysis_1](media/15306872775683/Citi_Bike_2017_Analysis_1.png)
 ![Citi_Bike_2017_Analysis_2](media/15306872775683/Citi_Bike_2017_Analysis_2.png)
 ![Citi_Bike_2017_Analysis_3](media/15306872775683/Citi_Bike_2017_Analysis_3.png)
