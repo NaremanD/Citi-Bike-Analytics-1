@@ -2,7 +2,7 @@
 <p align="center">
   <a href="#background">Background</a> •
   <a href="#analysis">Analysis</a> •
-  <a href="#technology-stack-used">Technology Stack Used</a> •
+  <a href="#technology-stack-used">Technology Stack Used</a>
 </p>
 
 ![cove](media/15306872775683/cover.jpg)
